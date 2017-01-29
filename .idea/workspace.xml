@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8448e9d-3cf0-4328-99c1-1e2a01faf619" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/guessing-game.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/guessing-game.js" afterPath="$PROJECT_DIR$/src/guessing-game.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/guessing-game.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -31,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="629">
+                <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/test/guessing-game.spec.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52156">
-              <caret line="3068" column="0" lean-forward="true" selection-start-line="3068" selection-start-column="0" selection-end-line="3068" selection-end-column="0" />
+              <caret line="3068" column="0" lean-forward="false" selection-start-line="3068" selection-start-column="0" selection-end-line="3068" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,6 +106,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -565,12 +574,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485681027771</updated>
-      <workItem from="1485681029137" duration="7737000" />
+      <workItem from="1485681029137" duration="8147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7737000" />
+    <option name="totallyTimeSpent" value="8147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -628,7 +637,7 @@
     <entry file="file://$PROJECT_DIR$/test/guessing-game.spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52156">
-          <caret line="3068" column="0" lean-forward="true" selection-start-line="3068" selection-start-column="0" selection-end-line="3068" selection-end-column="0" />
+          <caret line="3068" column="0" lean-forward="false" selection-start-line="3068" selection-start-column="0" selection-end-line="3068" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -644,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/src/guessing-game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -652,8 +661,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="629">
+            <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
